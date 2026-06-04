@@ -1,8 +1,8 @@
 # 3D LiDAR Mount Assembly
 
-This repository documents the Fall 2025 LiDAR mount redesign project. The project focused on iterating from the previous LiDAR mounting design, which provided a primarily 2D field of vision, toward a multi axis mechanism capable of supporting a 3D field of vision for autonomous vehicle sensing.
+This repo documents the Fall 2025 LiDAR mount redesign project. The project focused on iterating from the previous LiDAR mounting design, which provided a primarily 2D field of vision, into a multi axis mechanism capable of supporting a 3D field of vision for autonomous vehicle sensing.
 
-The redesign added rotational freedom around the y axis, improved forward and reverse visibility, and supported a target visibility range of approximately ten feet from the vehicle. The final design includes a rotating base, LiDAR clamp, gimbal motor clamp, servo motor mount, and full LiDAR assembly. :contentReference[oaicite:0]{index=0}
+The redesign added two rotational degrees of freedom, expanding LiDAR coverage from 2D to 3D. The final design includes a rotating base, LiDAR clamp, gimbal motor clamp, servo motor mount, and full LiDAR assembly. :contentReference[oaicite:0]{index=0}
 
 ## Project Goals
 
