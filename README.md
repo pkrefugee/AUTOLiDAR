@@ -21,6 +21,17 @@ The final concept uses two motor driven axes:
 
 The mechanism was designed to improve the vehicle’s environmental awareness by allowing the LiDAR sensor to scan beyond a fixed planar field of view.
 
+## Design Progression
+
+### Initial Sketch
+![Initial LiDAR mount sketch](Snapshots/Sketch.png)
+
+### CAD Assembly
+![Final CAD assembly](Snapshots/FinalAssembly.png)
+
+### Physical Prototype
+![Physical LiDAR prototype](Snapshots/Prototype.png)
+
 ## Repository Structure
 
 ```text
